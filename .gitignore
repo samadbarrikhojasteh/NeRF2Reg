@@ -1,1 +1,23 @@
+# IDE settings
+.idea/
+.vscode/
 
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Local environment and secrets
+.env
+
+# Generated training files
+outputs/
+checkpoints/
+wandb/
+
+# OS files
+.DS_Store
+Thumbs.db
