@@ -21,3 +21,16 @@ wandb/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
