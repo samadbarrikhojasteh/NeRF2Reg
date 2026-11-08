@@ -248,7 +248,6 @@ dependencies:
       - nbconvert==7.8.0
       - nbformat==5.7.0
       - nerfacc==0.5.2
-      - nerfstudio==0.3.4
       - nest-asyncio==1.5.7
       - ninja==1.11.1
       - nodeenv==1.8.0
