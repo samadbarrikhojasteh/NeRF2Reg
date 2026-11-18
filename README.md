@@ -12,7 +12,7 @@ preprocessing, then registration.
 ### 📦 Dependencies
 
 Since NeRF2Reg is developed upon the Nerfstudio framework and [Nerfacto](https://docs.nerf.studio/nerfology/methods/nerfacto.html), all requirements and dependencies of Nerfstudio remain applicable to MIS-NeRF. 
-We have developed and modified version ```v1.0.0``` of Nerfstudio, which can be accessed [here](https://github.com/nerfstudio-project/nerfstudio/releases/tag/v1.0.0).
+
 ## 2. 📂 Synthetic liver dataset
 This repository includes one synthetic liver experiment: [Synth_Dynamic](datasets/Synth_Dynamic) consisting of RGB images, depth maps, masks, a preoperative model, relative Basis (4,8,16) and
 corresponding camera poses. 
